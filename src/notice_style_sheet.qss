@@ -1,0 +1,16 @@
+/***
+QPushButton#btn_newtask {
+    border-radius: 25px;
+    background-color: #63BBD0;
+}
+QPushButton#btn_newtask:hover {
+    background-color: #ABCDEF;
+    border: none;
+}
+
+QPushButton:hover {
+    background-color: #123456;
+    border: none;
+}
+
+***/

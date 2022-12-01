@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>notice_style_sheet.qss</file>
+        <file>icon/0.png</file>
+        <file>icon/2.png</file>
+    </qresource>
+</RCC>
